@@ -2,7 +2,7 @@
 
 ## Overview
 AirSync monitors air quality, temperature, and humidity in real-time. It uses sensors, microcontrollers, and cloud integration to display environmental data on a dashboard.
-
+![Image](https://raw.githubusercontent.com/Divyanshu4fx/AirSync/refs/heads/main/Images/Image_05.jpg)
 ---
 
 ## Features
