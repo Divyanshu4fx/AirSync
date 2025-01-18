@@ -26,8 +26,8 @@ AirSync monitors air quality, temperature, and humidity in real-time. It uses se
 ## Circuit Diagram
 Below is the circuit diagram for the project:
 
-![Circuit Diagram](Circuit Diagram.png)
-![Circuit Diagram](Circuit Diagram.jpg)
+![Circuit Diagram](https://raw.githubusercontent.com/Divyanshu4fx/AirSync/refs/heads/main/Circuit%20Diagram.jpg)
+![Circuit Diagram](https://raw.githubusercontent.com/Divyanshu4fx/AirSync/refs/heads/main/Circuit%20Diagram.png)
 ---
 
 ## Limitations
